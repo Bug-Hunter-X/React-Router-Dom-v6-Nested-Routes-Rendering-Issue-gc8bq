@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with nested routes in React Router v6 and provides a solution. The issue arises when nested routes fail to render correctly, often resulting in a blank screen or unexpected behavior. The solution involves using the `useParams` hook correctly and ensuring that the parent route's path is defined appropriately.
